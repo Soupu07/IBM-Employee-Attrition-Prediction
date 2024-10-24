@@ -71,4 +71,4 @@ c)	**Prepare a plot presenting the Attrition Breakdown of Employees**
 
 d)	**Perform Logistic Regression of the Data**
 
-e)	**Perform metrics for the accuracy score and classification report **
+e)	**Perform metrics for the accuracy score and classification report**
