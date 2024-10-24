@@ -18,7 +18,7 @@ This the data about the employee on various factor influencing the attrition fro
 
 **About Dataset**
 
-I) **Department **
+I) **Department**
 
     1.	Sales	
     
